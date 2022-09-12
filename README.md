@@ -1,6 +1,6 @@
 # Public Bot and Support Server!
 
-<a href="https://discord.gg/roverdev"><img src="https://discord.com/api/guilds/918153120981319730/widget.png?style=banner2"></a>
+<a href="https://discord.gg/ZGCmmgR"><img src="https://discord.com/api/guilds/734330600713879573/widget.png?style=banner2"></a>
  
 
 # Installation Guide 🔥
